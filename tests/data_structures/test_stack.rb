@@ -1,5 +1,7 @@
 require 'test/unit'
-require '../../data_structures/stack'
+require '../../../data_structures/stack.rb'
+
+#require file is not working please fix it
 
 class TestStack < Test::Unit::TestCase
   def test_push
